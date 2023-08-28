@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace WinFormsFirstLessonWithButtons
 {
+    // HW 2023 06 03
+    // Задание 3
+    // Приложение показывает, сколько времени в секундах осталось до НГ/ДР/окончания предмета WinForms (19.08.2023 12:00)
+
     public partial class Form6 : Form
     {
         DateTime newDateTimeToWait;
