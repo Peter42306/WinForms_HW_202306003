@@ -9,6 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// ДЗ от 2023 06 03
+// Задание 2
+// 2) при наведении на кнопку - та отпрыгивает в случайную позицию на клиентской области формы
+// (но не выходя за пределы окна) -есть пример в убегающая кнопка.exe
+
 namespace WinFormsFirstLessonWithButtons
 {
     public partial class Form4 : Form
